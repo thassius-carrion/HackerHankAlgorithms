@@ -1,0 +1,16 @@
+C:\dev\HackerHankStudies\HackerHankStudies\bin\Debug\net5.0\HackerHankStudies.exe
+C:\dev\HackerHankStudies\HackerHankStudies\bin\Debug\net5.0\HackerHankStudies.deps.json
+C:\dev\HackerHankStudies\HackerHankStudies\bin\Debug\net5.0\HackerHankStudies.runtimeconfig.json
+C:\dev\HackerHankStudies\HackerHankStudies\bin\Debug\net5.0\HackerHankStudies.runtimeconfig.dev.json
+C:\dev\HackerHankStudies\HackerHankStudies\bin\Debug\net5.0\HackerHankStudies.dll
+C:\dev\HackerHankStudies\HackerHankStudies\bin\Debug\net5.0\HackerHankStudies.pdb
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\HackerHankStudies.csproj.AssemblyReference.cache
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\HackerHankStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\HackerHankStudies.AssemblyInfoInputs.cache
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\HackerHankStudies.AssemblyInfo.cs
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\HackerHankStudies.csproj.CoreCompileInputs.cache
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\HackerHankStudies.dll
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\refint\HackerHankStudies.dll
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\HackerHankStudies.pdb
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\HackerHankStudies.genruntimeconfig.cache
+C:\dev\HackerHankStudies\HackerHankStudies\obj\Debug\net5.0\ref\HackerHankStudies.dll
