@@ -9,15 +9,25 @@ namespace HackerHankStudies
         public static void Main(string[] args)
         {
 
-
-
         }
 
-        public static int lonelyinteger(List<int> a)
+        //Funcao para retornar o numero que não é repetido 
+        public static int lonelyInteger(List<int> a)
         {
-            return 1;
+            int lonelyNumber = 0;
+
+            foreach (int i in a)
+            {
+                var listInt = a.FindAll(x => x == i);
+                if (listInt.Count == 1)
+                {
+                    lonelyNumber = listInt[0];
+                }
+            }
+            return lonelyNumber;
         }
 
+        //Funcao para retornar hora no Formato hh:MM:ss
         public static string TimeFormatConverter(string s)
         {
             var splits = s.Split(":");
@@ -57,6 +67,7 @@ namespace HackerHankStudies
 
         }
 
+        //Funcao para retornar os numero de strings que dao matches
         public static List<int> matchingStrings(List<string> strings, List<string> queries)
         {
             List<int> numbers = new();
@@ -71,7 +82,6 @@ namespace HackerHankStudies
             return numbers;
             
         }
-
 
         public void MixDeArrays()
         {
